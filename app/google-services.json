@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503772470589",
+    "firebase_url": "https://jmed-ef4e9-default-rtdb.firebaseio.com",
+    "project_id": "jmed-ef4e9",
+    "storage_bucket": "jmed-ef4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503772470589:android:81db259d0c2f2928b87954",
+        "android_client_info": {
+          "package_name": "com.example.jmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503772470589-ua3nge7e0odlbotivhv6cqdp7en82jnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pXuK5EkwhKtXsUZISBRmE4Lv--yNel0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503772470589-ua3nge7e0odlbotivhv6cqdp7en82jnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_game_finished.xml" value="0.2477355072463768" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_jouer.xml" value="0.24320652173913043" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_main.xml" value="0.24320652173913043" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_mode_du_jeu.xml" value="0.2477355072463768" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_niveau.xml" value="0.2477355072463768" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_online.xml" value="0.24320652173913043" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_regles_du_jeu.xml" value="0.2477355072463768" />
+        <entry key="..\:/JMED_Final/app/src/main/res/layout/activity_welcome.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/JMED_Final/app/src/main/res/drawable/text_desing.xml" value="0.159" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/JMED_Final/app/src/main/res/layout/activity_regles_du_jeu.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/drawable/ic_timer.xml" value="0.158" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_game_finished.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_jouer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_mode_du_jeu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_niveau.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_on_line.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_online.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_regles_du_jeu.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Documents/2A_GI/S4/ProjetMobile_JAVA_UML/JMED_Final/app/src/main/res/layout/activity_welcome.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

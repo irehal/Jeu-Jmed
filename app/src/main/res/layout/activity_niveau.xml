@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    tools:context=".Niveau">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="300dp"
+        android:layout_height="120dp"
+        android:fontFamily="@string/title_font"
+        android:foregroundGravity="center"
+        android:gravity="center_horizontal"
+        android:text="Level"
+        android:textColor="#4D2709"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.045" />
+
+    <Button
+        android:id="@+id/retourne2"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_button_design_2"
+        android:fontFamily="@string/text_font"
+        android:text="back"
+        android:textColor="@drawable/text_desing"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.74" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout2"
+        android:layout_width="402dp"
+        android:layout_height="326dp"
+        android:foregroundGravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.349">
+
+
+        <Button
+            android:id="@+id/moyen"
+            android:layout_width="232dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/round_button_design"
+            android:fontFamily="@string/text_font"
+            android:gravity="center"
+            android:text="meduim"
+            android:textColor="@drawable/text_desing"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/difficile"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/facile" />
+
+        <Button
+            android:id="@+id/difficile"
+            android:layout_width="232dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="53dp"
+            android:background="@drawable/round_button_design"
+            android:fontFamily="@string/text_font"
+            android:gravity="center"
+            android:text="hard"
+            android:textColor="@drawable/text_desing"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/moyen" />
+
+        <Button
+            android:id="@+id/facile"
+            android:layout_width="232dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="23dp"
+            android:background="@drawable/round_button_design"
+            android:fontFamily="@string/text_font"
+            android:gravity="center"
+            android:text="Easy"
+            android:textColor="@drawable/text_desing"
+            android:textSize="24sp"
+            app:layout_constraintBottom_toTopOf="@+id/moyen"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

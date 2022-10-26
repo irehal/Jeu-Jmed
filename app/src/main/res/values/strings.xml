@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JMED</string>
+    <string name="title_font">@font/rubikwetpaint_regular</string>
+    <string name="text_font">@font/carterone_regular</string>
+</resources>
